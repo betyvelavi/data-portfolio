@@ -8,4 +8,4 @@ Here are some academic projects written in R, plus some data projects I like to 
 
 ## Cybersecurity 
 
-- [Simplidied DES](Simplified DES.ipynb).
+- [Simplidied DES](https://github.com/betyvelavi/data-portfolio/Simplified DES.ipynb).
