@@ -19,15 +19,15 @@ Delve into my repository to discover a varied array of data projects capturing m
 
 ### R
 
-📈 Project 1: Title: A deep dive into [brief description]. Demonstrates proficiency in [language/tool].
-
-🌐 Project 2: Title: Unveiling insights from [brief description]. Implemented with a combination of [languages/tools].
-
-🤖 Project 3: Title: Delving into the world of machine learning for [brief description]. Witness the power of predictive analytics using [tools].
-
+- [Tinnitus Case Study](https://github.com/betyvelavi/data-portfolio/blob/edits/Tinnitus%20Case%20Study.pdf).
+- [Marketing for Insurance Industry Case Study](https://github.com/betyvelavi/data-portfolio/tree/a3a1d5a52f6a23e6706cfd8bf79a6c2a80e3aa7e/Marketing%20for%20Insurance%20Case%20Study).
+- [Spotify Classification Case Study](https://github.com/betyvelavi/data-portfolio/tree/a3a1d5a52f6a23e6706cfd8bf79a6c2a80e3aa7e/Spotify%20Classification%20Study).
+  
 ### Python
-
+- [Simplified DES](https://github.com/betyvelavi/data-portfolio/blob/a3a1d5a52f6a23e6706cfd8bf79a6c2a80e3aa7e/Simplified%20DES.ipynb).
+  
 ### SQL Learning Journey 
+Access my SQL learning journey [here](https://github.com/betyvelavi/data-portfolio/tree/a3a1d5a52f6a23e6706cfd8bf79a6c2a80e3aa7e/SQL%20Self%20Learning)!
 
 Current Focus:
 🔍 Currently honing my SQL skills to enrich my toolkit for effective data management and retrieval.
