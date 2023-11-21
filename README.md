@@ -1,11 +1,37 @@
-# Data Science Portfolio
+# 🚀 Welcome to My Data Science Journey!
 
-Hello, and welcome to my github! This repository is a collection of a few projects in R, Python and SQL.
+Hello there! I'm Beatriz, a passionate data scientist fresh out of the academic realm with a shiny new master's degree in Applied Statistics and Data Science. 🎓 Armed with a blend of R and Python, I'm on a mission to extract meaningful insights from data and tell compelling stories through analytics.
 
-Here are some academic projects written in R, plus some data projects I like to do in my free time on topics that interst me like astronomy. 
+## About Me:
+- Master's in Applied Statistics and Data Science
+- Aspiring Data Scientist & Storyteller
+- Skilled in R, Python, and on the SQL learning curve
+- Passionate about astronomy
 
-**You can find my R portfolio [here](https://www.codecademy.com/pages/contribute-docs).** 
+## Certifications in Progress:
+- Google Data Analythics Professional Certificate
+- IBM Data Engineering Professional Certificate
 
-## Cybersecurity 
+## What to Expect:
+Delve into my repository to discover a varied array of data projects capturing my academic journey, including those accomplished during my Master's Degree using R and Python. I am currently in the process of reformatting and refining these projects, ensuring they align with the latest techniques and best practices in the ever-evolving field of data science. Additionally, join me on my ongoing exploration of SQL as I weave this new skill into the fabric of my data science narrative.
 
-- [Simplidied DES](https://github.com/betyvelavi/data-portfolio/Simplified DES.ipynb).
+## Highlighted Projects:
+
+### R
+
+📈 Project 1: Title: A deep dive into [brief description]. Demonstrates proficiency in [language/tool].
+
+🌐 Project 2: Title: Unveiling insights from [brief description]. Implemented with a combination of [languages/tools].
+
+🤖 Project 3: Title: Delving into the world of machine learning for [brief description]. Witness the power of predictive analytics using [tools].
+
+### Python
+
+### SQL Learning Journey 
+
+Current Focus:
+🔍 Currently honing my SQL skills to enrich my toolkit for effective data management and retrieval.
+
+Feel free to explore, provide feedback, or connect! Let's collaborate and make data-driven discoveries together. 🚀
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/beatrizgvela/).
