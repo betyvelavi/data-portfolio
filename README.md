@@ -25,6 +25,7 @@ Delve into my repository to discover a varied array of data projects capturing m
   
 ### Python
 - [Simplified DES](https://github.com/betyvelavi/data-portfolio/blob/a3a1d5a52f6a23e6706cfd8bf79a6c2a80e3aa7e/Simplified%20DES.ipynb).
+- [Fesitel Cipher](https://github.com/betyvelavi/data-portfolio/blob/4a5cedaf59bfc446d697d5d238b9bd7a686f8a94/Feistel%20Cipher.ipynb).
   
 ### SQL Learning Journey 
 Access my SQL learning journey [here](https://github.com/betyvelavi/data-portfolio/tree/a3a1d5a52f6a23e6706cfd8bf79a6c2a80e3aa7e/SQL%20Self%20Learning)!
