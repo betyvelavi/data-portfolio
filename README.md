@@ -39,10 +39,11 @@ Delve into my repository to discover a varied array of data projects capturing m
   - This project centers on the implementation and exploration of a Feistel Structure, a fundamental component in the design of cryptographic algorithms. The goal is to comprehend the principles behind data transformation within this structure, investigate its cryptographic properties, and gain practical insights into the design and implementation of secure and efficient cryptographic algorithms.
   
 ### SQL Learning Journey 
-  - Access my SQL learning journey [here](https://github.com/betyvelavi/data-portfolio/tree/a3a1d5a52f6a23e6706cfd8bf79a6c2a80e3aa7e/SQL%20Self%20Learning)!
+  - Access my SQL learning journey [here](https://github.com/betyvelavi/data-portfolio/tree/main/SQL%20Self%20Learning)!
 
 Current Focus:
 🔍 Currently honing my SQL skills to enrich my toolkit for effective data management and retrieval.
+🔍 Reworking through "An Introduction to Statistical Learning with Applications in Python". You can access my notes, chapther problem solutions, and projects [here](https://github.com/betyvelavi/ISL_python)
 
 Feel free to explore, provide feedback, or connect! Let's collaborate and make data-driven discoveries together. 🚀
 
