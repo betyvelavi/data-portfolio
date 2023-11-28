@@ -21,15 +21,15 @@ Delve into my repository to discover a varied array of data projects capturing m
 
 - [Tinnitus Case Study](https://github.com/betyvelavi/data-portfolio/blob/main/Tinnitus%20Case%20Study.pdf):
   - **Description:** This project addresses the psychological impact of tinnitus through the analysis of a dataset containing information from 142 subjects. 
-  - **Tools empoloyed:** Utilizing various R libraries, the exploration includes data cleaning, descriptive statistics, and correlation analysis. The project delves into linear regression models, and when traditional linear regression assumptions posed challenges, alternative models such as Generalized Additive Models (GAM) and K-Mean Regression were explored.
+  - **Tools employed:** Utilizing various R libraries, the exploration includes data cleaning, descriptive statistics, and correlation analysis. The project delves into linear regression models, and when traditional linear regression assumptions posed challenges, alternative models such as Generalized Additive Models (GAM) and K-Mean Regression were explored.
   - **Findings:** The comparison revealed that K-Mean Regression outperformed. The project concludes with insights into potential future enhancements, including addressing normality test failures and further exploring GAM models.
 - [Marketing for Insurance Industry Case Study](https://github.com/betyvelavi/data-portfolio/tree/main/Marketing%20for%20Insurance%20Case%20Study)
   - **Description:** This project leverages an insurance industry dataset, aiming to optimize future marketing campaigns by refining target audience selection.
-  - **Tools empoloyed:** Information Value analysis, variable clustering, data cleaning, and modeling with Random Forests and Support Vector Machines.
+  - **Tools employed:** Information Value analysis, variable clustering, data cleaning, and modeling with Random Forests and Support Vector Machines.
   - **Findings:** The Random Forest demonstrated the highest Accuracy, while Support Vector Machines, especially the Gaussian Radial Kernel SVM, excelled in AUC values, suggesting its efficacy in target audience selection for the insurance company's marketing campaign. The conclusion emphasizes the relative utility of models and suggests avenues for improvement and further analysis.
 - [Spotify Classification Case Study](https://github.com/betyvelavi/data-portfolio/tree/main/Spotify%20Classification%20Study)
   - **Description:** This project focuses on evaluating classification models for categorizing songs into musical genres using a Spotify dataset.
-  - **Tools empoloyed:**  Various models, including k-Nearest Neighbors, Decision Trees, Random Forests, Support Vector Machines, Linear, and Quadratic Discriminant Analysis, were trained and compared based on Accuracy, Sensitivity, and Specificity. 
+  - **Tools employed:**  Various models, including k-Nearest Neighbors, Decision Trees, Random Forests, Support Vector Machines, Linear, and Quadratic Discriminant Analysis, were trained and compared based on Accuracy, Sensitivity, and Specificity. 
   - **Findings:** The Support Vector Machine (SVM) emerged as the best-performing model in terms of Accuracy, with future research directions discussed.
  
 ### Python
