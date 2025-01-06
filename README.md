@@ -1,19 +1,21 @@
 # 🚀 Welcome to My Data Science Journey!
 
-Hello there! I'm Beatriz, a passionate data scientist fresh out of the academic realm with a shiny new master's degree in Applied Statistics and Data Science. 🎓 Armed with a blend of R and Python, I'm on a mission to extract meaningful insights from data and tell compelling stories through analytics.
+Hello! I'm Beatriz, a passionate data scientist with a master's degree in Applied Statistics and Data Science. I am knowledgeable in R and Python, and I enjoy indulging in data and use to help people and build stories.
 
 ## About Me:
 - Master's in Applied Statistics and Data Science
-- Aspiring Data Scientist & Storyteller
-- Skilled in R, Python, and on the SQL learning curve
-- Passionate about astronomy
+- Aspiring Data Scientist
+- Skilled in R, Python, and SQL
+- Passionate about astronomy and curious about everything and anything.
 
 ## Certifications in Progress:
 - Google Data Analythics Professional Certificate
 - IBM Data Engineering Professional Certificate
 
 ## What to Expect:
-Delve into my repository to discover a varied array of data projects capturing my academic journey, including those accomplished during my Master's Degree using R and Python. I am currently in the process of reformatting and refining these projects, ensuring they align with the latest techniques and best practices in the ever-evolving field of data science. Additionally, join me on my ongoing exploration of SQL as I weave this new skill into the fabric of my data science narrative.
+In this repository, you can encounter a collections of data projects capturing my academic journey. These include projects I have worked during my free time and those accomplished during my Master's Degree. Main tools I used were R and Python.
+
+I am currently in the process of reformatting and refining these projects, ensuring they align with the latest techniques and best practices in the ever-evolving field of data science. Additionally, join me on my ongoing exploration of SQL as I weave this new skill into the fabric of my data science narrative.
 
 ## Highlighted Projects:
 
